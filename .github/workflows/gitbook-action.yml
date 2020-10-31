@@ -15,3 +15,6 @@ jobs:
       uses: ZanderZhao/gitbook-action@master # -> or ZanderZhao/gitbook-action@master.If not use master click above, use latest please 
       with:                                   #    or fork this repo and use YourName/gitbook-action@master
         token: ${{ secrets.PERSONAL_TOKEN }}  # -> remember add this in settings/secrets as following
+        time_zone: Asia/Shanghai
+        source_dir: gitbook-source
+        source_edit_time: true
