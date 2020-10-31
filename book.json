@@ -4,7 +4,7 @@
     "description": "Gitbook-Action",
     "gitbook": "3.2.3",
     "plugins": [
-        "katex@git+https://github.com/allenyllee/plugin-katex.git"
+        "katex"
     ]
   }
   
