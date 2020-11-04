@@ -2,6 +2,7 @@
 
 阅读地址：https://bbpp222006.github.io/the-book-of-why
 
+如果打不开可以试试这个链接：https://winter-disk-b9a2.heroku11451.workers.dev/the-book-of-why/
 
 这个项目是个人翻译，争取日更1k。
 
